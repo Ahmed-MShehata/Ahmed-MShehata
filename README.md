@@ -21,9 +21,11 @@ Currently expanding my expertise in **Cloud**, **Distributed Systems**, and **AI
 
 # 💫 About Me
 
-I'm a Computer Science student and Backend Engineer focused on building scalable, maintainable, and enterprise-ready applications using the .NET ecosystem.
+I'm a Backend Engineer focused on building scalable and maintainable applications using the .NET ecosystem.
 
-I enjoy solving real-world problems, designing clean architectures, building RESTful APIs, and continuously improving my software engineering skills.
+I enjoy designing clean software architectures, building RESTful APIs, solving real-world problems, and continuously improving my engineering skills.
+
+Currently, I'm following a structured roadmap to master backend engineering, cloud technologies, distributed systems, and modern software architecture.
 
 ## 🎯 Current Goals
 
@@ -86,6 +88,22 @@ I enjoy solving real-world problems, designing clean architectures, building RES
 - OpenAI Codex
 - GitHub Copilot
 - Prompt Engineering
+
+---
+
+## 🎯 Current Goals
+
+- Master Advanced C#
+- Master ASP.NET Core
+- Build Enterprise APIs
+- Learn Docker
+- Learn Redis
+- Learn RabbitMQ
+- Learn Microservices
+- Learn Kubernetes
+- Learn Azure
+- Improve System Design
+- Contribute to Open Source
 
 ---
 
