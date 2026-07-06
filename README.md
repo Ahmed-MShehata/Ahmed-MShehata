@@ -9,6 +9,9 @@ Building scalable backend applications using **ASP.NET Core**, **Clean Architect
 Currently expanding my expertise in Cloud, Distributed Systems, and AI-powered Development.
 
 </div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Backend+Engineer;ASP.NET+Core+Developer;Building+Scalable+RESTful+APIs;Clean+Architecture+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
 
 ---
 
