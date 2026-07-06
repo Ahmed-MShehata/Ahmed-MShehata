@@ -4,9 +4,9 @@
 
 ### Backend Engineer | ASP.NET Core | Clean Architecture
 
-Building scalable backend solutions with modern .NET technologies.
+Turning ideas into scalable backend solutions with modern .NET technologies.
 
-Currently expanding my expertise in **Cloud**, **Distributed Systems**, and **AI-powered Development**.
+Currently expanding my expertise in **Cloud**, **Distributed Systems**, **AI-powered Development**, and modern backend engineering.
 
 <p>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=700&height=60&lines=Backend+Engineer;ASP.NET+Core+Developer;Building+Scalable+RESTful+APIs;Clean+Architecture+Enthusiast;Always+Learning+Something+New;Cloud+%7C+AI-Powered+Development"/>
