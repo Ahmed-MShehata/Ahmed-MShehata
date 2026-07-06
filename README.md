@@ -2,11 +2,11 @@
 
 # Hi 👋, I'm Ahmed Mohamed Shehata
 
-### Backend Engineer
+### Backend Engineer | ASP.NET Core | Clean Architecture
 
 Building scalable backend applications using **ASP.NET Core**, **Clean Architecture**, and **SQL Server**.
 
-Currently learning **Cloud**, **Distributed Systems**, and **AI-Assisted Development**.
+Currently expanding my expertise in Cloud, Distributed Systems, and AI-powered Development.
 
 </div>
 
