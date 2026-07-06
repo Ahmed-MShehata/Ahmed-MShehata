@@ -10,7 +10,7 @@ Currently expanding my expertise in Cloud, Distributed Systems, and AI-powered D
 
 </div>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Backend+Engineer;ASP.NET+Core+Developer;Building+Scalable+RESTful+APIs;Clean+Architecture+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=700&height=60&lines=Backend+Engineer;ASP.NET+Core+Developer;Building+Scalable+RESTful+APIs;Clean+Architecture+Enthusiast;Cloud+%7C+AI-Powered+Development" alt="Typing SVG" />
 </p>
 
 ---
